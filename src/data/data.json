@@ -1,0 +1,163 @@
+{
+    "Header": {
+
+        "title": "Learn Language in a Different Way",
+        "paragraph": "We posses educators that will teach you German & English Language. Having adept teachers who are result-oriented is what we offer."
+
+    },
+    "About": {
+        "paragraph": "Welcome to PTS Schools where we provide end-to-end foreign language training. Our goal is to produce internationaly competitive students and equip them with superb communication skills.",
+        "secondparagraph": "Providing a well-designed curriculum is our expertise. Surely, after finishing the different courses you will be more than ready to take a new path abroad. We believe that our student's success is also our success.",
+        "Why": [
+            "Quality Training",
+            "Experienced Instructors"
+        ],
+        "Why2": [
+            "Accredited",
+            "Results-Oriented"
+        ]
+    },
+    "Gallery": [
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/01-large.jpg",
+          "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/02-large.jpg",
+          "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/03-large.jpg",
+          "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/04-large.jpg",
+          "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/05-large.jpg",
+          "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/06-large.jpg",
+          "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/07-large.jpg",
+          "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/08-large.jpg",
+          "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+          "title": "Image Title",
+          "largeImage": "img/portfolio/09-large.jpg",
+          "smallImage": "img/portfolio/09-small.jpg"
+        }
+      ],
+    "Services": [{
+            "icon": "fa fa-book",
+            "name": "A1 - Beginner",
+            "text": "At the A1 level, you should be able to understand simple German sentences and recognize basic words that describe yourself and the world around you. You can use familiar greetings and introduce yourself."
+        },
+        {
+            "icon": "fa fa-pencil",
+            "name": "A2 - Elementary",
+            "text": "You can relate information about your job, your family, and your basic needs at the A2 level. You can understand practical materials like train schedules. You can also comprehend short written and spoken messages."
+        },
+        {
+            "icon": "fa fa-graduation-cap",
+            "name": "B1 - Intermediate",
+            "text": "At the B1 level, you can start to enjoy more German media, grasping the main ideas of TV or radio programs that have slow and clear narration. Your written and spoken expressions also become more sophisticated."
+        },
+        {
+            "icon": "fa fa-briefcase",
+            "name": "B2 - Professional",
+            "text": "Reaching the B2 level means that you can appreciate German media more fully, although you might still struggle with fast dialogue or idiomatic expressions. Your use of German is more nuanced at this level."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "German Language Teacher"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "German Language Teacher"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "German Language Teacher"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "German Language Teacher"
+        }
+    ],
+    "Contact": {
+        "address": "CYA Centrum Unit L5-U12, Military Cut-off Road, Baguio City",
+        "phone": "0949 472 0958",
+        "email": "info@pts-schools.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Learn in a Different Way",
+            "text": "We use an effective method that will help you go further with whatever your goals are."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "We Are Results Oriented",
+            "text": "We encourage students to perform and in return, it allows them to have an international career."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "The Latest Technology",
+            "text": "We adopt the latest trends in technology since education is continuously evolving."
+        }
+    ]
+}
